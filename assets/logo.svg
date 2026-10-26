@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Jeff Richardson Plumbing Service logo">
+  <rect x="3" y="3" width="114" height="114" rx="25" fill="#ffd52a"/>
+  <path d="M62 15C51 34 35 49 35 67a27 27 0 0 0 54 0c0-18-16-33-27-52Z" fill="#14263b"/>
+  <path d="M48 68h15V55h14v-9h12v20H77v13H63v13H48z" fill="#ffd52a" stroke="#ffd52a" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="63" cy="67" r="4" fill="#14263b"/>
+</svg>
